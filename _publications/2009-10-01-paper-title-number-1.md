@@ -12,4 +12,4 @@ This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](https://iopscience.iop.org/article/10.3847/1538-4357/abcf2a)
 
-Recommended citation: Shuang & Wang (2021). Phase Shift of Planetary Waves and Wave–Jet Resonance on Tidally Locked Planets. <i>ApJ</i>. 907(1):28.
+Recommended citation: Shuang & Yang (2021). Phase Shift of Planetary Waves and Wave–Jet Resonance on Tidally Locked Planets. <i>ApJ</i>. 907(1):28.
