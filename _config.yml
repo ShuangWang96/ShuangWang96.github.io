@@ -82,8 +82,9 @@ analytics:
 author:
   name             : "Shuang Wang"
   avatar           : "profile.png"
-  bio              : ""
+  bio              : "Postdoctoral Researcher"
   location         : "Cambridge, MA"
+  location         : "Massachusetts Institute of Technology"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=O3zkiV0AAAAJ&hl=en"
