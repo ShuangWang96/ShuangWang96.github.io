@@ -9,6 +9,6 @@ paperurl: 'https://iopscience.iop.org/article/10.3847/1538-4357/abcf2a'
 citation: 'Wang & Yang, (2021). &quot;Phase Shift of Planetary Waves and Wave–Jet Resonance on Tidally Locked Planets.&quot; <i>ApJ</i>. 907(1).'
 ---
 
-[Download paper here](https://iopscience.iop.org/article/10.3847/1538-4357/abcf2a)
+[Download paper here](https://iopscience.iop.org/article/10.3847/1538-4357/abcf2a/pdf)
 
 Recommended citation: Wang & Yang (2021). Phase Shift of Planetary Waves and Wave–Jet Resonance on Tidally Locked Planets. <i>ApJ</i>. 907(1):28.
