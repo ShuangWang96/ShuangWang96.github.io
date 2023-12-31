@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics, Peking University, 2014——2018
-* Ph.D in Physical oceanography, Peking University, 2018——2023
+* B.S. in Physics, Peking University, 2014—2018
+* Ph.D in Physical oceanography, Peking University, 2018—2023
 
 Work experience
 ======
-* 2023——present: Postdoctoral Associate
+* 2023—present: Postdoctoral Associate
   * The Department of Earth, Atmospheric and Planetary Sciences, Massachusetts Institute of Technology
   * Supervisor: Wanying Kang
   
