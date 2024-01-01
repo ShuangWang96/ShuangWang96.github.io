@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="../images/encelade.jpg" width="400px" /> <img src="../images/tidally.png" width="400px" />
+<img src="../images/encelade.jpg" width="360px" /> <img src="../images/tidally.png" width="360px" />
 
 I'm now a postdoctoral associate in EAPS at MIT.
 
