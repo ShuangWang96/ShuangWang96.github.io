@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: / 
 title: "About me"
 excerpt: "About me"
 author_profile: true
@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-![avatar](../images/encelade.jpg#w30)![avatar](../images/tidally.png#w30)
+<img src="../images/encelade.jpg" width="350px" /> <img src="../images/tidally.png" width="350px" />
 
 I'm now a postdoctoral associate in EAPS at MIT.
 
