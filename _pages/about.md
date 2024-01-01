@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![avatar](images/encelade.jpg)  ![avatar](images/tidally.png)
+![avatar](../images/encelade.jpg#w30)![avatar](../images/tidally.png#w30)
 
 I'm now a postdoctoral associate in EAPS at MIT.
 
