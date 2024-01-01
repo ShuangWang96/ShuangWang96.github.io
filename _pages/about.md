@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+![avatar](images/encelade.jpg)  ![avatar](images/tidally.png)
+
 I'm now a postdoctoral associate in EAPS at MIT.
 
 My research focuses on hydrothermal plumes within the subglacial oceans of icy moons, notably Europa and Enceladus. These icy moons are believed to harbor oceans extending tens of kilometers beneath an icy shell. Geothermal activity at the seafloor can drive plumes, interacting with the ambient fluid. These processes play a pivotal role in shaping heat and tracer transport dynamics within the ocean.
