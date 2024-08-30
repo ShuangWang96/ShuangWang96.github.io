@@ -77,8 +77,10 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
+  my_article:
+    title: 'First-authored'    
+  co_article:
+    title: 'Contributed'
   conferences:
     title: 'Conference Papers'
 
